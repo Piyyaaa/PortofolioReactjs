@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
   ]
-=======
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ]
->>>>>>> 941a489 (fix: configure Vercel for Vite)
 }
